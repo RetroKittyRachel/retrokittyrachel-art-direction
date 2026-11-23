@@ -53,17 +53,13 @@ The 3DS and DSi editors share a visual system. Keep the large handheld fixed and
 
 Light uses a soft pastel sky with cloudlike highlights and pink screen heading bars. Dark uses a violet, pink, and blue galaxy with brighter stars, pale control text, deep violet tool faces, magenta selection, deep blue Advanced and Export buttons, and dark pinkish-purple screen heading bars. Migraine uses muted sea-glass colors and dims the Studio view, including Tiny and the uploaded artwork. A new design defaults to a black shell in Dark and dark plum in Migraine. A manually chosen or saved shell color carries through appearance changes.
 
-## Archived study room
-
-The Study Room and its proposal routes were archived in this source snapshot. Its last prototype remains a reference for a future room if Rachel revives it. It used one wide arched window, the approved continuous reef, a mauve #A995AD floor, and a fixed 5:10 PM Pacific dusk look from November 12, 2026. The approved prototype paired a low layered pink oyster crown and small pearl with sheer aqua curtains, a hidden purple canopy light, shell nightstands, a two-shade shell floor lamp with a tiny plant, and a large round teal rug with worn cream fringe. The third round-bed draft was a working proposal with staggered pillows, smooth aqua satin, and a pale lavender throw. Its status remains a proposal, along with the conch ornament and bookcase.
-
 ## How to review new art
 
 Treat the attached originals and Rachel’s approvals as the visual baseline. For an image prompt, specify the reference’s role, the feature to change, and the details to preserve. Keep new asset cutouts transparent where appropriate and compare them with the existing art at scene size. For any proposed Palace art change, show the existing and proposed versions side by side at actual display size. Use a still for shape, color, or placement and a short loop for motion. Show day and night when lighting matters. Identify what changed and wait for Rachel’s approval before applying it to the Palace. Treat any new direction as a proposal until she approves it.
 
 ## Source and companion images
 
-This brief was distilled from the local RetroKittyRachel site main branch at d1f2bf8. The primary source files were docs/palace-art-direction.md, docs/project-handoff.md, and docs/study-room-artwork-prompts.md. Appearance swatches were cross-checked against the site CSS. The source snapshot describes the Next.js site and development editors. The live WordPress deployment is managed separately.
+This brief was distilled from the local RetroKittyRachel site main branch at d1f2bf8. The primary source files were docs/palace-art-direction.md and docs/project-handoff.md. Appearance swatches were cross-checked against the site CSS. The source snapshot describes the Next.js site and development editors. The live WordPress deployment is managed separately. Rachel has since scrapped the Study Room for now.
 
 ![Theme Palace gallery appearance modes and Baby Moth desktop and phone layouts](references/palace-layout-and-appearance.jpg)
 
